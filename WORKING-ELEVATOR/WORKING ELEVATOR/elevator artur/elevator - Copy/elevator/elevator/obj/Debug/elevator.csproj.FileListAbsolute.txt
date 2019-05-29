@@ -1,0 +1,9 @@
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.pdb

@@ -1,0 +1,81 @@
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\c#\trying\elevator\elevator\bin\Debug\elevatordatabase.accdb
+C:\Users\artur\Desktop\elevator\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\elevator\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\elevator\elevator\bin\Debug\Database.accdb
+C:\Users\artur\Desktop\elevator\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\elevator\elevator\bin\Debug\elevator.pdb
+C:\Users\danie\Desktop\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\danie\Desktop\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\danie\Desktop\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\danie\Desktop\elevator - Copy\elevator\obj\Debug\elevator.pdb
+C:\Users\danie\Desktop\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\artur CUNTTT\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.pdb
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\logs.accdb
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe.config
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.exe
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\bin\Debug\elevator.pdb
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.exe
+C:\Users\artur\Desktop\git code\WORKING-ELEVATOR\WORKING ELEVATOR\elevator artur\elevator - Copy\elevator\obj\Debug\elevator.pdb
